@@ -2,6 +2,7 @@
 
 ![thumb jogo](https://user-images.githubusercontent.com/61741128/109703036-c6b2e380-7b73-11eb-9636-158ddb34edd5.png)
 
+![thumb](https://github.com/CoraLay/robo-zinho/blob/main/thumb%20jogo.png?raw=true)
 
 
 Jogo desenvolvido em Javascript com P5.js para a aula de Jogos clássicos parte 2: laços e listas com Javascript da Alura com o instrutor Guilherme Lima.
