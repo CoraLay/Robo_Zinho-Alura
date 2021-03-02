@@ -1,6 +1,5 @@
 # :robot: Robô Zinho
 
-![thumb jogo](https://user-images.githubusercontent.com/61741128/109703036-c6b2e380-7b73-11eb-9636-158ddb34edd5.png)
 
 ![thumb](https://github.com/CoraLay/robo-zinho/blob/main/thumb%20jogo.png?raw=true)
 
